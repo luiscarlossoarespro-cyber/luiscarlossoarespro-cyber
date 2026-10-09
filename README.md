@@ -48,7 +48,7 @@ A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho con
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix"><img src="netflix.svg" alt="Catálogo Netflix em Tableau"></a>
+<a href="https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix"><img src="netflix-cover.png" alt="Dashboard do catálogo Netflix no Tableau Public"></a>
 
 ### Catálogo Netflix — Tableau Public
 **Problema:** entender a composição e a evolução de um catálogo de streaming.<br>
