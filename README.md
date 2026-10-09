@@ -1,64 +1,111 @@
-<h1 align="left">Luis Carlos Machado Soares</h1>
+<a href="https://luiscarlossoarespro-cyber.github.io/">
+  <img src="assets/banner.svg" width="100%" alt="Luis Carlos Machado Soares — Análise de Dados aplicada à Logística">
+</a>
 
-<p><b>Logística e Dados · Conferência, inventário e indicadores · Dashboards que viram decisões</b></p>
-
-<p>
-  <a href="https://luiscarlossoarespro-cyber.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-acessar-6fa8ff?style=for-the-badge" alt="Portfólio"></a>
+<p align="center">
+  <a href="https://luiscarlossoarespro-cyber.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ver%20projetos-6fa8ff?style=for-the-badge" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/luiscarlos-log/"><img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:luiscarlos.soarespro@gmail.com"><img src="https://img.shields.io/badge/E--mail-luiscarlos.soarespro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:luiscarlos.soarespro@gmail.com"><img src="https://img.shields.io/badge/E--mail-falar%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/Porto%20Alegre%2FRS-dispon%C3%ADvel%20para%20in%C3%ADcio%20imediato-5ee0a0?style=for-the-badge" alt="Disponível">
 </p>
 
-📍 Porto Alegre/RS · disponível para início imediato e viagens
+## Por que eu
 
-São **mais de 16 anos em operações e logística**: conferência de cargas, controle de inventário, expedição e liderança de equipes no chão de operação. Hoje uso essa experiência na **análise de dados**: coleta, organização e tratamento de dados, indicadores (KPIs) e visualizações que apoiam decisões.
+A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho contrário.** Foram mais de 16 anos conferindo cargas, controlando inventário e liderando equipes em operação de alto volume. Hoje uso **Excel, Google Sheets e Tableau** para transformar esse dia a dia em **indicadores claros, dashboards e decisões**.
 
-- 🎯 **Objetivo:** áreas de Logística e Dados
-- 📚 **Estudando:** Técnico em Análise de Dados · SAP Professional Fundamentals · Scrum · Excel avançado
-- 🤖 **Uso de IA:** IA generativa (Claude) no dia a dia para acelerar análises e desenvolvimento
+> **O que isso significa para a sua empresa:** alguém que entende *por que* o número está errado antes de abrir a planilha — e que entrega a análise na linguagem de quem toma a decisão.
+
+<br>
+
+<img src="assets/impacto.svg" width="100%" alt="Impacto na operação: +16 anos; 100+ paletes e 29 caminhões por dia; até 50 pessoas coordenadas; 80+ capacitados">
+
+<br>
+
+## Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://luiscarlossoarespro-cyber.github.io/erp-financeiro-pessoal/"><img src="https://raw.githubusercontent.com/luiscarlossoarespro-cyber/erp-financeiro-pessoal/main/assets/cover.png" alt="ERP Financeiro"></a>
+
+### ERP Financeiro — Dashboard estratégico
+**Problema:** dados financeiros espalhados, sem visão de risco nem prioridade.<br>
+**Entrega:** sistema em Google Sheets + dashboard com fluxo de caixa, gargalos, auditoria, dívidas e plano de decisões do mês.<br>
+`Google Sheets` `Dashboard web` `IA · Claude`
+
+[**▶ Ver demo**](https://luiscarlossoarespro-cyber.github.io/erp-financeiro-pessoal/) · [Código e documentação](https://github.com/luiscarlossoarespro-cyber/erp-financeiro-pessoal)
+</td>
+<td width="50%" valign="top">
+<a href="https://luiscarlossoarespro-cyber.github.io/analise-vendas-online/"><img src="https://raw.githubusercontent.com/luiscarlossoarespro-cyber/analise-vendas-online/main/assets/cover.png" alt="Análise de Vendas"></a>
+
+### Análise de Vendas — Aurora Comercial
+**Problema:** saber quem, onde e o que mais gera receita e margem.<br>
+**Entrega:** dashboard com receita e margem por representante, dispositivo, país, categoria e gerente.<br>
+`Excel` `Dashboard web`
+
+[**▶ Ver demo**](https://luiscarlossoarespro-cyber.github.io/analise-vendas-online/) · [Código e documentação](https://github.com/luiscarlossoarespro-cyber/analise-vendas-online)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix"><img src="assets/netflix.svg" alt="Catálogo Netflix em Tableau"></a>
+
+### Catálogo Netflix — Tableau Public
+**Problema:** entender a composição e a evolução de um catálogo de streaming.<br>
+**Entrega:** dashboard interativo com filmes × séries, países, ano de lançamento e tendência mensal.<br>
+`Tableau` `Visualização de dados`
+
+[**▶ Abrir dashboard**](https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix) · [Documentação](https://github.com/luiscarlossoarespro-cyber/analise-catalogo-netflix)
+</td>
+<td width="50%" valign="top">
+
+### O que eu resolvo
+
+- 📦 **Indicadores logísticos** — produtividade, acuracidade de inventário, divergências de conferência, giro e expedição
+- 📊 **Dashboards gerenciais** — a informação certa, no formato certo, para quem decide
+- 🧹 **Planilhas confiáveis** — organização, tratamento e padronização de dados
+- ⚙️ **Rotinas mais rápidas** — automação de controles manuais com planilhas e IA
+- 🔎 **Análise de gargalos** — achar onde a operação perde tempo e dinheiro
+
+<br>
+
+**Meu método em todo projeto**
+
+`Problema` → `Perguntas` → `Dados` → `Tratamento` → `KPIs` → `Dashboard` → `Decisão`
+
+Todos seguem o mesmo [padrão de documentação](MODELO-DE-PROJETO.md).
+</td>
+</tr>
+</table>
+
+## Trajetória
+
+| Período | Empresa | Função e resultados |
+|---|---|---|
+| out/2026 – atual | **BBM Logística** | Conferente · conferência de cargas e descargas, separação, PDL (coletor de dados) e acuracidade das movimentações |
+| dez/2021 – jun/2026 | **Coca-Cola FEMSA** | Ajudante Operacional → Assistente Geral → Assistente de Operações → **Conferente** · 100+ paletes e 29 caminhões/dia (até 40 no verão) · inventário diário do pick e geral quinzenal · coordenação de até 50 pessoas · 80+ capacitados · Kaizen e Agile |
+
+## Ferramentas
+
+![Excel](https://img.shields.io/badge/Excel%20avan%C3%A7ado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Office](https://img.shields.io/badge/Pacote%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Claude](https://img.shields.io/badge/IA-Claude-D97757?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F81?style=for-the-badge)
+![WMS](https://img.shields.io/badge/PDL%20%C2%B7%20WMS-1f2a44?style=for-the-badge)
+![Kaizen](https://img.shields.io/badge/Kaizen%20%C2%B7%20Agile%20%C2%B7%20Scrum-6b4fd8?style=for-the-badge)
+
+## Formação contínua
+
+- 🎓 Administração de Empresas · Processos Gerenciais *(cursando)*
+- 📊 Técnico em Análise de Dados · SAP Professional Fundamentals *(cursando)*
+- 🧩 Scrum · Excel para Análise de Dados · Intensivão de Claude
 
 ---
 
-### Projetos em destaque
-
-| Projeto | O que resolve | Ferramentas | Links |
-|---|---|---|---|
-| **[ERP Financeiro Pessoal](https://github.com/luiscarlossoarespro-cyber/erp-financeiro-pessoal)** | Dashboard estratégico: fluxo de caixa, gargalos, inadimplência, dívidas e decisões do mês | Google Sheets · IA (Claude) | [Demo](https://luiscarlossoarespro-cyber.github.io/erp-financeiro-pessoal/) · [Código](https://github.com/luiscarlossoarespro-cyber/erp-financeiro-pessoal) |
-| **[Análise de Vendas — Aurora Comercial](https://github.com/luiscarlossoarespro-cyber/analise-vendas-online)** | Receita e margem por representante, dispositivo, país, categoria e gerente | Excel · Dashboard web | [Demo](https://luiscarlossoarespro-cyber.github.io/analise-vendas-online/) · [Código](https://github.com/luiscarlossoarespro-cyber/analise-vendas-online) |
-| **[Netflix — Catálogo](https://github.com/luiscarlossoarespro-cyber/analise-catalogo-netflix)** | Filmes e séries por país, ano de lançamento e tendência mensal | Tableau Public | [Dashboard](https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix) |
-
----
-
-### Experiência
-
-**BBM Logística** · Conferente · out/2026 – atual
-Conferência de cargas e descargas, separação de produtos, uso de PDL (coletor de dados) e controle da acuracidade das movimentações.
-
-**Coca-Cola FEMSA** · dez/2021 – jun/2026 · Ajudante Operacional → Assistente Geral → Assistente de Operações → **Conferente**
-- Conferência em operação de alto volume: **mais de 100 paletes e 29 caminhões por dia**, chegando a **40 caminhões** no verão
-- Controle da acuracidade do inventário: inventário diário do pick e geral duas vezes por mês
-- Coordenação informal de **até 50 colaboradores** em alta demanda e capacitação de **mais de 80 colaboradores**
-- Reuniões operacionais para tratar gargalos, com melhoria contínua, Kaizen e Agile
-
----
-
-### Ferramentas e métodos
-
-![Excel](https://img.shields.io/badge/Excel%20avan%C3%A7ado-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-em%20forma%C3%A7%C3%A3o-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Office](https://img.shields.io/badge/Pacote%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Claude](https://img.shields.io/badge/IA-Claude-D97757?style=flat-square)
-![Lovable](https://img.shields.io/badge/Lovable-em%20forma%C3%A7%C3%A3o-FF4F81?style=flat-square)
-![WMS](https://img.shields.io/badge/Log%C3%ADstica-PDL%20%C2%B7%20WMS-6fa8ff?style=flat-square)
-![Métodos](https://img.shields.io/badge/M%C3%A9todos-Kaizen%20%C2%B7%20Agile%20%C2%B7%20Scrum-b69cff?style=flat-square)
-
-### Formação
-
-- Administração de Empresas (cursando)
-- Processos Gerenciais (cursando)
-
-### Como eu trabalho em cada projeto
-
-`Problema de negócio` → `Perguntas` → `Dados` → `Tratamento` → `Indicadores` → `Dashboard` → `Decisão`
-
-Todos os projetos seguem o mesmo [modelo de documentação](MODELO-DE-PROJETO.md).
+<p align="center">
+<b>Procuro oportunidades em Análise de Dados e Logística.</b><br>
+Se a sua operação gera dados e precisa de alguém que entenda o processo por trás deles, vamos conversar.<br><br>
+<a href="https://www.linkedin.com/in/luiscarlos-log/"><b>LinkedIn</b></a> · <a href="mailto:luiscarlos.soarespro@gmail.com"><b>luiscarlos.soarespro@gmail.com</b></a> · <a href="https://luiscarlossoarespro-cyber.github.io/"><b>Portfólio</b></a>
+</p>
