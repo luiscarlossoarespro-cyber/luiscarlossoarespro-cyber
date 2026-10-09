@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Impacto: mais de 16 anos em operações; mais de 100 paletes e 29 caminhões por dia; até 50 colaboradores coordenados; mais de 80 capacitados">
+<style>
+.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}
+.c{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:g 1.1s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes g{to{transform:scaleX(1)}}
+</style>
+<g class="t">
+<g class="c" style="animation-delay:.05s"><rect x="1" y="1" width="285" height="186" rx="18" fill="#0b1426" stroke="#ffffff" stroke-opacity=".09"/>
+<rect class="bar" style="animation-delay:.5s" x="26" y="26" width="44" height="5" rx="2.5" fill="#6fa8ff"/>
+<text x="26" y="96" font-size="50" font-weight="700" fill="#f3f6fc" letter-spacing="-1">+16</text><text x="122" y="96" font-size="20" font-weight="600" fill="#6fa8ff">anos</text>
+<text x="26" y="132" font-size="16" fill="#b7c3d9">em operações e logística</text>
+<text x="26" y="156" font-size="13.5" fill="#7f8ea8">conferência · inventário · expedição</text></g>
+<g class="c" style="animation-delay:.2s"><rect x="305" y="1" width="285" height="186" rx="18" fill="#0b1426" stroke="#ffffff" stroke-opacity=".09"/>
+<rect class="bar" style="animation-delay:.65s" x="330" y="26" width="44" height="5" rx="2.5" fill="#5ee0a0"/>
+<text x="330" y="96" font-size="50" font-weight="700" fill="#f3f6fc" letter-spacing="-1">100+</text><text x="452" y="96" font-size="20" font-weight="600" fill="#5ee0a0">paletes/dia</text>
+<text x="330" y="132" font-size="16" fill="#b7c3d9">e 29 caminhões por dia</text>
+<text x="330" y="156" font-size="13.5" fill="#7f8ea8">até 40 caminhões no pico de verão</text></g>
+<g class="c" style="animation-delay:.35s"><rect x="609" y="1" width="285" height="186" rx="18" fill="#0b1426" stroke="#ffffff" stroke-opacity=".09"/>
+<rect class="bar" style="animation-delay:.8s" x="634" y="26" width="44" height="5" rx="2.5" fill="#f7c25a"/>
+<text x="634" y="96" font-size="50" font-weight="700" fill="#f3f6fc" letter-spacing="-1">até 50</text><text x="788" y="96" font-size="20" font-weight="600" fill="#f7c25a">pessoas</text>
+<text x="634" y="132" font-size="16" fill="#b7c3d9">coordenadas em alta demanda</text>
+<text x="634" y="156" font-size="13.5" fill="#7f8ea8">reuniões de gargalo · Kaizen</text></g>
+<g class="c" style="animation-delay:.5s"><rect x="913" y="1" width="285" height="186" rx="18" fill="#0b1426" stroke="#ffffff" stroke-opacity=".09"/>
+<rect class="bar" style="animation-delay:.95s" x="938" y="26" width="44" height="5" rx="2.5" fill="#b69cff"/>
+<text x="938" y="96" font-size="50" font-weight="700" fill="#f3f6fc" letter-spacing="-1">80+</text><text x="1036" y="96" font-size="20" font-weight="600" fill="#b69cff">capacitados</text>
+<text x="938" y="132" font-size="16" fill="#b7c3d9">colaboradores treinados</text>
+<text x="938" y="156" font-size="13.5" fill="#7f8ea8">padronização de processos</text></g>
+</g>
+</svg>

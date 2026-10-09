@@ -1,5 +1,5 @@
 <a href="https://luiscarlossoarespro-cyber.github.io/">
-  <img src="assets/banner.svg" width="100%" alt="Luis Carlos Machado Soares — Análise de Dados aplicada à Logística">
+  <img src="banner.svg" width="100%" alt="Luis Carlos Machado Soares — Análise de Dados aplicada à Logística">
 </a>
 
 <p align="center">
@@ -17,7 +17,7 @@ A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho con
 
 <br>
 
-<img src="assets/impacto.svg" width="100%" alt="Impacto na operação: +16 anos; 100+ paletes e 29 caminhões por dia; até 50 pessoas coordenadas; 80+ capacitados">
+<img src="impacto.svg" width="100%" alt="Impacto na operação: +16 anos; 100+ paletes e 29 caminhões por dia; até 50 pessoas coordenadas; 80+ capacitados">
 
 <br>
 
@@ -48,7 +48,7 @@ A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho con
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix"><img src="assets/netflix.svg" alt="Catálogo Netflix em Tableau"></a>
+<a href="https://public.tableau.com/app/profile/lu.s.carlos.machado.soares/viz/Livro1_17865361765710/Netflix"><img src="netflix.svg" alt="Catálogo Netflix em Tableau"></a>
 
 ### Catálogo Netflix — Tableau Public
 **Problema:** entender a composição e a evolução de um catálogo de streaming.<br>

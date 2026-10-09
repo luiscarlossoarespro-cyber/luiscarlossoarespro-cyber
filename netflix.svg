@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Ilustração do projeto Catálogo Netflix em Tableau">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a0a0d"/><stop offset="1" stop-color="#0a0b12"/></linearGradient>
+<style>.t{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}
+.b{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:gr .9s cubic-bezier(.2,.7,.2,1) forwards}@keyframes gr{to{transform:scaleY(1)}}
+.ln{stroke-dasharray:1200;stroke-dashoffset:1200;animation:d 2.2s .5s ease-out forwards}@keyframes d{to{stroke-dashoffset:0}}</style></defs>
+<rect width="1200" height="675" rx="24" fill="url(#g)"/>
+<g class="t">
+<text x="70" y="112" font-size="16" font-weight="600" letter-spacing="2" fill="#ff6b6b">TABLEAU PUBLIC · ANÁLISE DE CATÁLOGO</text>
+<text x="70" y="170" font-size="52" font-weight="700" fill="#f5f2f2" letter-spacing="-1">Catálogo Netflix</text>
+<text x="70" y="212" font-size="22" fill="#c9bcbc">Filmes × séries · países · ano de lançamento · tendência mensal</text>
+</g>
+<g transform="translate(70 270)">
+<rect width="500" height="330" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".08"/>
+<text class="t" x="24" y="40" font-size="16" font-weight="600" fill="#e8dede">Títulos por ano de lançamento</text>
+<line x1="24" y1="300" x2="476" y2="300" stroke="#ffffff" stroke-opacity=".12"/>
+<g fill="#e5484d">
+<rect class="b" style="animation-delay:.2s" x="34" y="270" width="34" height="30" rx="4" fill-opacity=".55"/>
+<rect class="b" style="animation-delay:.3s" x="88" y="250" width="34" height="50" rx="4" fill-opacity=".6"/>
+<rect class="b" style="animation-delay:.4s" x="142" y="225" width="34" height="75" rx="4" fill-opacity=".65"/>
+<rect class="b" style="animation-delay:.5s" x="196" y="190" width="34" height="110" rx="4" fill-opacity=".7"/>
+<rect class="b" style="animation-delay:.6s" x="250" y="150" width="34" height="150" rx="4" fill-opacity=".75"/>
+<rect class="b" style="animation-delay:.7s" x="304" y="110" width="34" height="190" rx="4" fill-opacity=".85"/>
+<rect class="b" style="animation-delay:.8s" x="358" y="85" width="34" height="215" rx="4" fill-opacity=".95"/>
+<rect class="b" style="animation-delay:.9s" x="412" y="120" width="34" height="180" rx="4" fill-opacity=".8"/>
+</g></g>
+<g transform="translate(600 270)">
+<rect width="530" height="155" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".08"/>
+<text class="t" x="24" y="40" font-size="16" font-weight="600" fill="#e8dede">Tendência mensal de inclusões</text>
+<path class="ln" d="M24 130 C70 120 90 100 130 108 S200 70 240 82 S310 50 350 60 S430 30 506 38" fill="none" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
+</g>
+<g transform="translate(600 445)">
+<rect width="255" height="155" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".08"/>
+<text class="t" x="24" y="40" font-size="16" font-weight="600" fill="#e8dede">Filmes × Séries</text>
+<circle cx="127" cy="98" r="40" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="16"/>
+<circle cx="127" cy="98" r="40" fill="none" stroke="#e5484d" stroke-width="16" stroke-dasharray="176 252" transform="rotate(-90 127 98)"/>
+</g>
+<g transform="translate(875 445)">
+<rect width="255" height="155" rx="16" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".08"/>
+<text class="t" x="24" y="40" font-size="16" font-weight="600" fill="#e8dede">Títulos por país</text>
+<g fill="#ff6b6b"><circle cx="70" cy="90" r="14" fill-opacity=".7"/><circle cx="120" cy="110" r="8" fill-opacity=".55"/><circle cx="165" cy="85" r="11" fill-opacity=".6"/><circle cx="200" cy="118" r="6" fill-opacity=".5"/><circle cx="95" cy="125" r="5" fill-opacity=".45"/></g>
+</g>
+</svg>
