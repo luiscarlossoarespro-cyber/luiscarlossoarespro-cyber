@@ -15,12 +15,12 @@ FROM   analistas
 WHERE  entende_a_operacao = TRUE;
 
 -- Luis Carlos Machado Soares | Análise de dados aplicada à logística | Porto Alegre/RS
--- 19 anos de carreira em operações e logística | SQL · Python · estatística · dashboards
+-- 16 anos de carreira em operações e logística | SQL · Python · estatística · dashboards
 ```
 
 ## Por que eu
 
-A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho contrário.** São 19 anos de carreira em operações e logística: conferindo cargas, controlando inventário e liderando equipes em operação de alto volume. Hoje uso **SQL, Python, estatística e dashboards** para mostrar onde a operação perde tempo e dinheiro e o que fazer a respeito.
+A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho contrário.** São 16 anos de carreira em operações e logística: conferindo cargas, controlando inventário e liderando equipes em operação de alto volume. Hoje uso **SQL, Python, estatística e dashboards** para mostrar onde a operação perde tempo e dinheiro e o que fazer a respeito.
 
 > **Para a sua empresa:** alguém que entende *por que* o número está errado antes de abrir a planilha, e que entrega a análise na linguagem de quem decide.
 
