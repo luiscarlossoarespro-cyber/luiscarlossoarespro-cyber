@@ -83,7 +83,6 @@ A maioria dos analistas aprende a operação pelos dados. **Eu fiz o caminho con
 
 | Período | Empresa | Função |
 |---|---|---|
-| out/2026 – atual | **BBM Logística** | Conferente · cargas e descargas, separação e PDL (coletor de dados) |
 | dez/2021 – jun/2026 | **Coca-Cola FEMSA** | Ajudante Operacional → Assistente Geral → Assistente de Operações → **Conferente** · inventário diário do pick e geral quinzenal · Kaizen |
 | 2007 – 2021 | Zaffari, DMLU, Garagem Paineira, RBS | Almoxarifado, coleta urbana, manutenção e promoção de vendas |
 
